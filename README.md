@@ -1,6 +1,6 @@
-# Oii_StudyHub
+# Csharp-Homework
 
-**Oii_StudyHub** - 一个个人学习记录的集中地，包含了课后作业和学习笔记。
+**Csharp-Homework** - 一个我学习C#记录的集中地，包含了课后作业和学习笔记。
 
 这是我保存自己学习记录的地方，还在学习如何使用 GitHub，请多多包涵。
 
